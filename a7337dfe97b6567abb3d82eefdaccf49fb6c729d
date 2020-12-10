@@ -1,0 +1,1 @@
+{"jobID":"d97c650c-0a76-88da-04d6-82cc75ad186f","spec":{"type":"policy","cause":{"Message":"","User":""},"spec":{"jalasoft:deployment/hello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
